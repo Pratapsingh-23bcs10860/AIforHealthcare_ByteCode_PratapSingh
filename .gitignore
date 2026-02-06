@@ -1,0 +1,11 @@
+# Ignore processed numpy files except selected one
+data/processed/*.npy
+!data/processed/sample_subject.npy
+
+# Ignore notebooks
+notebooks/
+
+# Ignore app directory
+app/
+
+
